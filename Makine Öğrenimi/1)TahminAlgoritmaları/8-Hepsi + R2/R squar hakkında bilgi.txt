@@ -1,0 +1,3 @@
+Herhangi bir algoritmanın başarı oranını hesaplama için kullanılır.
+0 en temel en kötü anlamındadır 1 ise algoritma o veriler için mükkemmeldir.
+eğer '-' ye düşüyor ise durum vahim o algoritmayı terk et.
