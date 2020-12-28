@@ -1,12 +1,9 @@
 #Kütüphanelerin yüklenmesi
 import pandas as pd
 import numpy as np 
-import matplotlib.pyplot as plt
-
 
 #eksik olan veri dosyasının alınması
 eksikVeriler = pd.read_csv("eksikveriler.txt")
-
 
 from sklearn.impute import SimpleImputer
 # eksik verileri tamamlamak için bu şablon kullanılabilir.
