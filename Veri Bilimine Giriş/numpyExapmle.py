@@ -18,11 +18,11 @@ print("array içerisinde 3 den küçük olanlar =\n",array1 < 3)
 a = np.random.random((5,5)) # 0 ile 1 arasında rastgele sayı üretir
 
 print("Random matris =\n",a)
-s
+
 print("Toplamları = \n",a.sum())
 print("Aralarındaki en büyük sayı =\n",a.max())
 print("Aralarındaki en küçük sayı =\n",a.min())  
 
-
 print("Satırların toplamı =\n",a.sum(axis = 0))
-print("Sütunların toplamı =\n",a.sum(axis = 1)) 
+
+print("lahana bas eklendi")
